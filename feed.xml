@@ -5,7 +5,7 @@
     <description>curso de inglés</description>
     <language>es-es</language>
     <link>https://raw.githubusercontent.com/b62urmaj/mi-podcats-/main/episodes</link>
-    <lastBuildDate>Sun, 19 Jul 2026 18:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:10:50 +0000</lastBuildDate>
     <itunes:author>Juan Carlos</itunes:author>
     <itunes:owner>
       <itunes:name>Juan Carlos</itunes:name>
@@ -24,7 +24,7 @@
       <description>the M sound</description>
       <enclosure url="https://raw.githubusercontent.com/b62urmaj/mi-podcats-/main/episodes/the M sound.mp3" length="8943959" type="audio/mpeg" />
       <guid isPermaLink="false">the M sound.mp3</guid>
-      <pubDate>Sun, 19 Jul 2026 18:03:09 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 18:10:50 +0000</pubDate>
       <itunes:duration>00:04:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
