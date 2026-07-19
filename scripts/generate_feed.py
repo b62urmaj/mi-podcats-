@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from mutagen.mp3 import MP3
 from xml.sax.saxutils import escape
-
+from urllib.parse import quote
 # ============ CONFIGURA ESTOS DATOS ============
 GITHUB_USER = "b62urmaj"
 REPO_NAME = "mi-podcats-"
@@ -52,7 +52,7 @@ def build_items(mp3_files):
         filesize = os.path.getsize(filepath)
         duration = get_mp3_duration_seconds(filepath)
         pub_date = base_date - timedelta(days=i)
-        url = f"{RAW_BASE}/{filename}"
+        url = f"{RAW_BASE}/{quote(filename)}"
 
         item = f"""    <item>
       <title>{escape(title)}</title>
