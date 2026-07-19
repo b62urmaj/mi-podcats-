@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mi Podcast</title>
+    <description>curso de inglés</description>
+    <language>es-es</language>
+    <link>https://raw.githubusercontent.com/b62urmaj/mi-podcats-/main/episodes</link>
+    <lastBuildDate>Sun, 19 Jul 2026 16:47:33 +0000</lastBuildDate>
+    <itunes:author>Juan Carlos</itunes:author>
+    <itunes:owner>
+      <itunes:name>Juan Carlos</itunes:name>
+      <itunes:email>juancarlos.urbanomarmol@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/b62urmaj/mi-podcats-/main/cover.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
+    <image>
+      <url>https://raw.githubusercontent.com/b62urmaj/mi-podcats-/main/cover.jpg</url>
+      <title>Mi Podcast</title>
+      <link>https://raw.githubusercontent.com/b62urmaj/mi-podcats-/main/episodes</link>
+    </image>
+
+  </channel>
+</rss>
