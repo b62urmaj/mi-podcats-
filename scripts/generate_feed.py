@@ -18,12 +18,12 @@ PODCAST_TITLE = "Mi Podcast"
 PODCAST_DESCRIPTION = "curso de inglés"
 PODCAST_AUTHOR = "Juan Carlos"
 PODCAST_EMAIL = "juancarlos.urbanomarmol@gmail.com"
-PODCAST_IMAGE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{REPO_NAME}/main/cover.jpg"
+PODCAST_IMAGE = f"https://{GITHUB_USER}.github.io/{REPO_NAME}/cover.jpg"
 PODCAST_LANGUAGE = "es-es"
 PODCAST_CATEGORY = "Technology"
 # =================================================
 
-RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_USER}/{REPO_NAME}/main/episodes"
+RAW_BASE = f"https://{GITHUB_USER}.github.io/{REPO_NAME}/episodes"
 EPISODES_DIR = os.path.join(os.path.dirname(__file__), "..", "episodes")
 OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "..", "feed.xml")
 
