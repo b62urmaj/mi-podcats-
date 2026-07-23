@@ -5,7 +5,7 @@
     <description>curso de inglés</description>
     <language>es-es</language>
     <link>https://b62urmaj.github.io/mi-podcats-/episodes</link>
-    <lastBuildDate>Wed, 22 Jul 2026 21:54:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:43:21 +0000</lastBuildDate>
     <itunes:author>Juan Carlos</itunes:author>
     <itunes:owner>
       <itunes:name>Juan Carlos</itunes:name>
@@ -20,12 +20,12 @@
       <link>https://b62urmaj.github.io/mi-podcats-/episodes</link>
     </image>
     <item>
-      <title>theMsound</title>
-      <description>theMsound</description>
-      <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/theMsound.mp3" length="8943959" type="audio/mpeg" />
-      <guid isPermaLink="false">theMsound.mp3</guid>
-      <pubDate>Wed, 22 Jul 2026 21:54:32 +0000</pubDate>
-      <itunes:duration>00:04:37</itunes:duration>
+      <title>sonido M</title>
+      <description>sonido M</description>
+      <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/sonido_M.mp3" length="2" type="audio/mpeg" />
+      <guid isPermaLink="false">sonido_M.mp3</guid>
+      <pubDate>Thu, 23 Jul 2026 07:43:21 +0000</pubDate>
+      <itunes:duration>00:00:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
