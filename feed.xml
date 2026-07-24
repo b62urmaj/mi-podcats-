@@ -5,7 +5,7 @@
     <description>curso de inglés</description>
     <language>es-es</language>
     <link>https://b62urmaj.github.io/mi-podcats-/episodes</link>
-    <lastBuildDate>Fri, 24 Jul 2026 11:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:40:56 +0000</lastBuildDate>
     <itunes:author>Juan Carlos</itunes:author>
     <itunes:owner>
       <itunes:name>Juan Carlos</itunes:name>
@@ -24,7 +24,7 @@
       <description>S1  BS Contrast</description>
       <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/S1_%20BS_Contrast.mp3" length="20696532" type="audio/mpeg" />
       <guid isPermaLink="false">S1_ BS_Contrast.mp3</guid>
-      <pubDate>Fri, 24 Jul 2026 11:40:20 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 11:40:56 +0000</pubDate>
       <itunes:duration>00:10:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -33,7 +33,7 @@
       <description>S1 Connecting Words TyD</description>
       <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/S1_Connecting_Words_TyD.mp3" length="23050902" type="audio/mpeg" />
       <guid isPermaLink="false">S1_Connecting_Words_TyD.mp3</guid>
-      <pubDate>Thu, 23 Jul 2026 11:40:20 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 11:40:56 +0000</pubDate>
       <itunes:duration>00:11:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -42,7 +42,7 @@
       <description>S1 Flap T</description>
       <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/S1_Flap_T.mp3" length="22858349" type="audio/mpeg" />
       <guid isPermaLink="false">S1_Flap_T.mp3</guid>
-      <pubDate>Wed, 22 Jul 2026 11:40:20 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 11:40:56 +0000</pubDate>
       <itunes:duration>00:11:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -51,8 +51,17 @@
       <description>S1 Sound A as in CAT</description>
       <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/S1_Sound_A_as_in_CAT.mp3" length="10629457" type="audio/mpeg" />
       <guid isPermaLink="false">S1_Sound_A_as_in_CAT.mp3</guid>
-      <pubDate>Tue, 21 Jul 2026 11:40:20 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 11:40:56 +0000</pubDate>
       <itunes:duration>00:05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>S1 Sounding Native Stuff</title>
+      <description>S1 Sounding Native Stuff</description>
+      <enclosure url="https://b62urmaj.github.io/mi-podcats-/episodes/S1_Sounding_Native_Stuff.mp3" length="19452927" type="audio/mpeg" />
+      <guid isPermaLink="false">S1_Sounding_Native_Stuff.mp3</guid>
+      <pubDate>Mon, 20 Jul 2026 11:40:56 +0000</pubDate>
+      <itunes:duration>00:10:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
